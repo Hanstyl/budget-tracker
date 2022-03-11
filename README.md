@@ -20,8 +20,11 @@
   ## Usage
 
   Deployed Application
+  
+  ### Image taken from bootcamp spot module to show what application will look like while deployed
 
-  (goes here)
+  ![Screen Shot 2022-03-10 at 6 47 34 PM](https://user-images.githubusercontent.com/79775889/157786361-99601688-ae79-4e25-bbce-4ca29f82cfeb.png)
+
 
   ## Contributors
 
