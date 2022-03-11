@@ -19,7 +19,7 @@
 
   ## Usage
 
-  Deployed Application
+  Deployed Application Link (here)
   
   ### Image taken from bootcamp spot module to show what application will look like while deployed
 
